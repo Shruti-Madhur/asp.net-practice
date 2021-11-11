@@ -10,4 +10,3 @@ $ dotnet watch run
 
 # ASP.NET MVC pattern
 	$ dotnet new mvc -o MvcMovie
-	
